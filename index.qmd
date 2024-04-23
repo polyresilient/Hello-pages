@@ -1,0 +1,16 @@
+---
+title: "my first page"
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+
+```{r}
+plot(women)
+```
+
